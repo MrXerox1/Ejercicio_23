@@ -1,0 +1,6 @@
+C:\Users\xerox\source\repos\Ejercicio_23\Moneda\bin\Debug\Moneda.dll
+C:\Users\xerox\source\repos\Ejercicio_23\Moneda\bin\Debug\Moneda.pdb
+C:\Users\xerox\source\repos\Ejercicio_23\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\xerox\source\repos\Ejercicio_23\Moneda\obj\Debug\Moneda.dll
+C:\Users\xerox\source\repos\Ejercicio_23\Moneda\obj\Debug\Moneda.pdb
+C:\Users\xerox\source\repos\Ejercicio_23\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
